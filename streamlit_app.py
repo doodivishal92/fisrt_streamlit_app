@@ -2,10 +2,10 @@ import streamlit
 
 streamlit.title('My prents New Healthy Diner at Neywork')
 
-streamlit.Header('Breakfast Menu')
+streamlit.header('Breakfast Menu')
 
-streamlit.Text('Omega 3 and Blueberry Oat meal')
-streamlit.Text('Kale, Spinash & Rookie Smoothie')
-streamlit.Text('Hard Boiled Free-range Egg')
+streamlit.text('Omega 3 and Blueberry Oat meal')
+streamlit.text('Kale, Spinash & Rookie Smoothie')
+streamlit.text('Hard Boiled Free-range Egg')
 
 
